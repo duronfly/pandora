@@ -1,4 +1,4 @@
-From pengzhile/pandora
+FROM pengzhile/pandora
 
 EXPOSE 80
 
